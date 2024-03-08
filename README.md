@@ -19,7 +19,7 @@ Training Stress Score (TSS) is a composite number that takes into account the du
 Rate of Perceived Effort (RPE) is a subjective rating of how hard one is exercising at a given moment, on a scale of 1-10. (TrainingPeaks.com)
 
 ## Initial Observations
-As these scatterplots indicate, there does seem to be somewhat linear relationship between physiological metrics (TSS, power average, heart rate average) and the rider’s reported RPE. As physiological effort increases, RPE also tends to increase.
+Based on exploratory data analysis, there does seem to be somewhat linear relationship between physiological metrics (TSS, power average, heart rate average) and the rider’s reported RPE. As physiological effort increases, RPE also tends to increase.
 
 ## Digging In
 After cleaning the data to drop any observations that did not include data for RPE, the size of the dataset dropped considerably, exacerbating the pre-existing “small data problem” caused by using only my own training data. This means two things: (1) all conclusions are based on the data of only one athlete and may not be representative of the greater endurance athlete population, and (2) even the data from this one athlete is limited, and any correlations may not hold true when tested on a larger data set with more observations. 
