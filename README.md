@@ -33,9 +33,10 @@ My next question was whether following a rest day had any significant effect on 
 ## Conclusions
 The relationship between the physiological metrics of average heart rate and average power with the subjective metric of RPE is not as cut and dried as one might think. While average power and increased TSS do seem to be positively correlated with RPE, workouts with higher average power and heart rate do not consistently result in higher RPE, nor do workouts following a rest day have any statistically significant effects on RPE. 
 
-[Tableau Dashboard](https://public.tableau.com/views/PhysiologytoPsychology/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-
 Due to the limitations of working with a single athlete’s data, there is plenty of opportunity for more research and exploration in this space. Some questions for further exploration and consideration in this space include:
 With more athletes and more data, do these conclusions remain consistent?
 Do mental performance practices affect RPE when controlling for TSS?
 With data for 10-minute power and heart rate, would there be a clearer correlation with workouts containing 10-minute efforts over tempo and a higher RPE?
+
+[Tableau Dashboard](https://public.tableau.com/views/PhysiologytoPsychology/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+
